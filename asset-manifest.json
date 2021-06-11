@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jamming-music/static/css/main.ad884962.chunk.css",
+    "main.js": "/jamming-music/static/js/main.cadf3bfa.chunk.js",
+    "main.js.map": "/jamming-music/static/js/main.cadf3bfa.chunk.js.map",
+    "runtime-main.js": "/jamming-music/static/js/runtime-main.cae0018e.js",
+    "runtime-main.js.map": "/jamming-music/static/js/runtime-main.cae0018e.js.map",
+    "static/js/2.a37aa86b.chunk.js": "/jamming-music/static/js/2.a37aa86b.chunk.js",
+    "static/js/2.a37aa86b.chunk.js.map": "/jamming-music/static/js/2.a37aa86b.chunk.js.map",
+    "static/js/3.3e071333.chunk.js": "/jamming-music/static/js/3.3e071333.chunk.js",
+    "static/js/3.3e071333.chunk.js.map": "/jamming-music/static/js/3.3e071333.chunk.js.map",
+    "index.html": "/jamming-music/index.html",
+    "static/css/main.ad884962.chunk.css.map": "/jamming-music/static/css/main.ad884962.chunk.css.map",
+    "static/js/2.a37aa86b.chunk.js.LICENSE.txt": "/jamming-music/static/js/2.a37aa86b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/jamming-music/static/media/background_photo_desktop.a0687f3f.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cae0018e.js",
+    "static/js/2.a37aa86b.chunk.js",
+    "static/css/main.ad884962.chunk.css",
+    "static/js/main.cadf3bfa.chunk.js"
+  ]
+}
